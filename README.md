@@ -51,3 +51,25 @@ design decisions made while keeping the game fully playable at every stage.
 - Inline error messages for invalid words (non-blocking)
 - Fully refactored **modular architecture**
 - Clean, responsive UI inspired by Wordle
+
+---
+
+## Word Bank Disclaimer
+
+This project **does not use a complete English dictionary**.
+
+Instead, it relies on a **curated word bank** designed specifically for gameplay
+balance and learning purposes.
+
+- The word list contains a **limited set of common English words**
+- Words are grouped by length to support progressive difficulty
+- Not all valid English words are accepted
+- This is a **deliberate design choice**, not a limitation
+
+The goal is to:
+- Keep the game fair and approachable
+- Avoid obscure or extremely rare words
+- Maintain predictable difficulty progression across levels
+
+As a result, some valid English words may be rejected with  
+**“Not in word list”**, similar to the original Wordle experience.
