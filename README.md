@@ -7,6 +7,12 @@ and a clean layered architecture.
 This project was designed with **separation of concerns**, **immutability**, and
 **testability** in mind.
 
+## Live Demo
+
+This project is deployed using Netlify with a standard Vite build setup.
+
+👉 Live demo: https://clinquant-flan-5363b1.netlify.app/
+
 ---
 
 ## Vibe Coding Practice Project
